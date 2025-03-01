@@ -7,7 +7,7 @@ public class RestController {
 
     @GetMapping("/test")
     public String test() {
-        return "Learning java to azure apiazure";
+        return "Learning java to azure apiazure. Test";
     }
 }
 
